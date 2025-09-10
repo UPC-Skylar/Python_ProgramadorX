@@ -1,6 +1,6 @@
 # ProgramadorX
 
-A Python project for [brief description of what your project does].
+A Python project for learning.
 
 ## Table of Contents
 
